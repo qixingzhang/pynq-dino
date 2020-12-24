@@ -14,8 +14,8 @@ First program Arduino UNO using the code in `usb_keyboard.ino`
 ## Download Arduino Firmware
 the `firmware` folders contains two firmwares for Arduino UNO. `Arduino-keyboard-0.3.hex` enables Arduino UNO to work as HID devices, `Arduino-usbserial-uno.hex` is the original firmware for Arduino UNO. Here we using Flip to upload the firmware, click the [link](https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/FLIP) to download and install.
 
-<img src="https://github.com/qixingzhang/pynq-dino/blob/main/images/flip.png" style="zoom:50%" />
-<!-- ![image](https://github.com/qixingzhang/pynq-dino/blob/main/images/flip.png) -->
+<img src="https://github.com/qixingzhang/pynq-dino/blob/main/images/flip.png" style="zoom:30%" />
+
 1. Select device as `ATmega16U2`
 2. Open USB port
 3. Browse and select firmware
