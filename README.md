@@ -17,5 +17,6 @@ the `firmware` folders contains two firmwares for Arduino UNO. `Arduino-keyboard
 2. Open USB port
 3. Browse and select firmware
 4. Upload
+
 Once upload, unplug and replug the arduino, it will continus sending the signal to press space if the digital pin 0 is high. If it doesn't work, please double-click the .exe file in the `drivers` folder to install the driver for arduino.
 ## 
